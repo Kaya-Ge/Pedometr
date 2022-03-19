@@ -12,6 +12,8 @@ public class Main {
         System.out.println("");
         int countOfSteps = scanner.nextInt();
         System.out.printf("%d — это отличный результат!", countOfSteps);
+        System.out.println("");
+        System.out.println("Пока!");
 
     }
 }
